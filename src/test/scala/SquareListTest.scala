@@ -1,7 +1,6 @@
 package com.knoldus.squarelist
 
 import org.scalatest.funsuite.AnyFunSuite
-
 import scala.util.Success
 
 class SquareListTest extends AnyFunSuite {
